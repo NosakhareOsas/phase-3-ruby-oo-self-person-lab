@@ -75,7 +75,7 @@ class Person
 end
 
 
-akin = Person.new ("Akin")
-binding.pry
+# akin = Person.new ("Akin")
+# binding.pry
 
 
